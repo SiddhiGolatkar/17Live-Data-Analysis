@@ -1,2 +1,2 @@
-# 17Live-Data-Analysis
-pandas matplotlib
+# Data-Analysis
+pandas matplotlib seaborn numpy
